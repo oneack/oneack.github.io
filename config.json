@@ -1,6 +1,10 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
+    "title":"OneAck",
+    "subTitle":"Take things as they come.",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
+    "onePageListNum":15,
+    "i18n":"EN",
+    "dayTheme":"light",
+    "showPostSource":0,
     "GMEEK_VERSION":"last"
 }
