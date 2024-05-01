@@ -5,9 +5,9 @@
     "onePageListNum":15,
     "yearColorList":["#eca927"],
     "i18n":"EN",
-    "themeMode":"fix",
+    "themeMode":"manual",
     "dayTheme":"light",
-    "nightTheme":"github-light",
+    "nightTheme":"dark",
     "showPostSource":0,
     "GMEEK_VERSION":"last"
 }
